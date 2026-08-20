@@ -1,0 +1,26 @@
+{
+  "resultado": [
+    {
+      "codigoOrgao": 0,
+      "nomeOrgao": "string",
+      "nomeMnemonicoOrgao": "string",
+      "cnpjCpfOrgao": "string",
+      "codigoOrgaoVinculado": 0,
+      "cnpjCpfOrgaoVinculado": "string",
+      "nomeOrgaoVinculado": "string",
+      "codigoOrgaoSuperior": 0,
+      "cnpjCpfOrgaoSuperior": "string",
+      "nomeOrgaoSuperior": "string",
+      "codigoTipoAdministracao": 0,
+      "nomeTipoAdministracao": "string",
+      "poder": "string",
+      "esfera": "string",
+      "usoSisg": true,
+      "statusOrgao": true,
+      "dataHoraMovimento": "2024-01-15T10:30:00"
+    }
+  ],
+  "totalRegistros": 0,
+  "totalPaginas": 0,
+  "paginasRestantes": 0
+}

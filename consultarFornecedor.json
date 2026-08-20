@@ -1,0 +1,22 @@
+{
+  "resultado": [
+    {
+      "ativo": true,
+      "cnpj": "string",
+      "cpf": "string",
+      "habilitadoLicitar": true,
+      "codigoCnae": 0,
+      "nomeCnae": "string",
+      "nomeMunicipio": "string",
+      "naturezaJuridicaId": 0,
+      "naturezaJuridicaNome": "string",
+      "porteEmpresaId": 0,
+      "porteEmpresaNome": "string",
+      "nomeRazaoSocialFornecedor": "string",
+      "ufSigla": "string"
+    }
+  ],
+  "totalRegistros": 0,
+  "totalPaginas": 0,
+  "paginasRestantes": 0
+}
